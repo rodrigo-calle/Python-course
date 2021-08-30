@@ -1,0 +1,10 @@
+Apuntes del curso Python 
+Variables:
+concepto.
+lorem ipsum dolor sit amet, consectetur adip
+adnasjava
+sintaxis.
+metodos
+Constantes
+concepto
+sintaxis
